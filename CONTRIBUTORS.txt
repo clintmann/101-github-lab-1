@@ -2,3 +2,4 @@ John Smith - josmith@email.ex
 Chris Bogdon - cbogdon@cisco.com
 Adam Nicolai -adnicola@cisco.com
 Chris Bogdon #2 - chris@bogdonfamily.com
+Clint Mann - climann2@cisco.com
